@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Adafruit_ThermoModule
+F https://github.com/adafruit/Adafruit-MAX31856-PCB
+$ENDCMP
+#
+#End Doc Library

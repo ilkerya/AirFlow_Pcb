@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Adafruit_ThermoModule
+#
+DEF Adafruit_ThermoModule U 0 40 Y Y 1 F N
+F0 "U" 200 -500 50 V V C CNN
+F1 "Adafruit_ThermoModule" 500 -550 50 V V C CNN
+F2 "Custom_Ilker:Thermo_Int_Adafruit2" 500 -550 50 V I C CNN
+F3 "" 200 -500 50 V I C CNN
+DRAW
+S -450 0 -450 0 0 1 0 N
+S 150 -1100 -450 0 0 1 0 f
+X DRDY 1 -550 -150 100 R 50 50 1 1 I N
+X MPad1 10 150 -200 100 L 50 50 1 1 P N
+X Mpad2 11 150 -700 100 L 50 50 1 1 P N
+X FLT 2 -550 -250 100 R 50 50 1 1 I N
+X CS 3 -550 -350 100 R 50 50 1 1 I N
+X SDI 4 -550 -450 100 R 50 50 1 1 I N
+X SDO 5 -550 -550 100 R 50 50 1 1 I N
+X SCK 6 -550 -650 100 R 50 50 1 1 I N
+X GND 7 -550 -750 100 R 50 50 1 1 I N
+X 3Vo 8 -550 -850 100 R 50 50 1 1 I N
+X VIN 9 -550 -950 100 R 50 50 1 1 I N
+ENDDRAW
+ENDDEF
+#
+#End Library
